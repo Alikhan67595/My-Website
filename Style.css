@@ -1,0 +1,38 @@
+body{
+    font-family: calibri;
+}
+
+.button{
+    width:200px ;
+    height: 50px;
+    background-color: red;
+    color: aliceblue;
+    border: none;
+    border-radius: 8px;
+    text-align: center;
+    line-height:50px;
+    font-size: 25px;
+    text-align: center;
+
+}
+
+.button:hover{
+
+    background-color:#000000; ;
+}
+
+.box{
+
+    background-color: #2e74b2;
+    height: 400px;
+    width: 250px;
+    justify-content: center;
+    padding: 50px;
+    align-items: center;
+    border-radius: 20px;
+}
+span{
+    background-color: #2e74b2;
+    border-radius: 5px;
+    font-size: 35px;
+}
