@@ -46,6 +46,14 @@ h2{
     color: #2e74b2;
     text-decoration:underline;
     text-decoration-color: black;
+    padding: 0;
+    margin: 0;
+}
+
+p1{
+    padding: 0;
+    margin: 0;
+
 }
 
 .center{
@@ -80,4 +88,9 @@ h2{
 
 button a{
     text-decoration: none;
+}
+
+.table1{
+    padding: 0;
+    margin: 0;
 }
